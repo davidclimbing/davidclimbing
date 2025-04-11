@@ -1,2 +1,2 @@
-[Portfolio](https://davidclimbing.com)
-[Blog](https://blog.davidclimbing.com)
+- [Portfolio](https://davidclimbing.com)
+- [Blog](https://blog.davidclimbing.com)
